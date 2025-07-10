@@ -1,0 +1,191 @@
+h1{
+    text-transform: uppercase;
+    color: yellow;
+    text-align: center;
+}
+
+html{
+    background-color: black;
+}
+
+.escanor{
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: capitalize;
+}
+
+#h1-escanor{
+    border: 15px solid;
+    border-top: 20px;
+    color: aquamarine;
+}
+
+ #image-escanor{
+    border: 15px solid blue;
+    border-width: 15px;
+    height: 350px;
+    margin-top: 30px;
+    margin-left: 10%;
+ }
+
+ #h2-escanor{
+    text-align: center;
+    color: ;
+    text-transform: capitalize;
+ }
+
+ #h3-escanor{
+    color: lawngreen;
+    text-align: center;
+    text-transform: capitalize;
+ }
+
+ #h4-escanor{
+    color: yellow;
+    text-align: center;
+    text-transform: capitalize;
+ }
+
+ #p-escanor{
+    color: navajowhite;
+ }
+
+#h4-escanor-anchor{
+    color: #FF2DD1;
+}
+
+#list-item-escanor {
+    color: white;
+}
+
+.strong-pity{
+    color: red;
+    text-transform: uppercase;
+}
+
+.strong-escanor-lion-sin{
+    color: red;
+    text-transform: uppercase;
+}
+
+p{
+    text-align: left;
+    color: white;
+    text-transform: capitalize;
+ }
+
+.div-whitebeard{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-weight: normal;
+    font-style: normal;
+}
+
+#list-item-whitebeard{
+    color: white;
+}
+
+#whitebeard-image{
+    border: 15px solid blue;
+    border-width: 10px;
+    height: 350px;
+    width: 800px;
+    margin-top: 30px;
+    margin-left: 25%;
+}
+
+#h1-whitebeard{
+    border: 15px solid;
+    border-top: 20px;
+    color: aquamarine;
+    text-align: center;
+    text-transform: uppercase;  
+}
+
+#h2-whitebeard{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#h3-whitebeard{
+    color: lawngreen;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#whitebeard-anchor{
+    color: #FF2DD1;
+}
+
+#p-whitebeard{
+    color: navajowhite;
+    text-align: left;
+}
+
+#p-more-info-whitebeard{
+    color: yellow;
+}
+
+#strong-whitebeard{
+    text-transform: uppercase;
+    color: red;
+}
+
+.image-levi{
+    height: 400px;
+    width: 800px;
+    margin-top: 30px;
+    margin-top: 30px;
+    margin-left: 25%;
+    border: 15px solid blue;
+}
+
+#h1-aot{
+    border: 15px solid;
+    border-top: 20px;
+    color: aquamarine;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+#h2-aot{
+     color: aquamarine;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#h3-aot{
+    color: lawngreen;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#p-aot{
+    color: navajowhite;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#aot-anchor{
+    color: #FF2DD1;
+}
+
+#p-more-info-aot{
+    color: yellow;
+    text-transform: capitalize;
+}
+
+.aot-div{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-weight: normal;
+    font-style: normal;
+}
